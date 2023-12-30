@@ -1,2 +1,2 @@
 # CPPLearnExamples
- C++学习示例
+ C++在学习过程中的示例
